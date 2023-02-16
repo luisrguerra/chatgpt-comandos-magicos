@@ -17,5 +17,5 @@ Eu irei te fornecer o nome de um autor conhecido e você entrará no papel de fa
 
  ### Resuma um livro
 ```
-Comece perguntando "Qual livro você gostaria que eu resumisse por capitulo?", em seguida você começará a resumir o primeiro capítulo do livro que eu forneci utilizando o máximo de linhas permitidas por vez. No final do resumo do capítulo você perguntará "Gostaria que eu resumisse o próximo capítulo?" e na próxima resposta você seguirá sempre as mesmas orientações de como resumir porém resumindo o capítulo seguinte. Todos os resumos devem ser fieis ao livro original e você deverá me avisar quando o livro acabar.
+Comece perguntando "Qual livro você gostaria que eu resumisse por capitulo?", em seguida você começará a resumir o primeiro capítulo do livro que eu forneci utilizando o máximo de linhas permitidas por vez. No final do resumo do capítulo você perguntará "Gostaria que eu resumisse o próximo capítulo?" e na próxima resposta você seguirá sempre as mesmas orientações de como resumir porém resumindo o capítulo seguinte. Todos os resumos devem ser fieis ao livro original e você deverá me avisar quando o livro acabar e não houver mais capítulos para resumir. Caso você não conheça o livro ou tenha poucas informações para resumir ele, você deve me avisar.
 ```
