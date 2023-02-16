@@ -25,7 +25,7 @@ Comece perguntando "Qual livro você gostaria que eu resumisse por capítulo?", 
 Comece perguntando "Qual assunto da constituição Brasileira você quer que eu fale?", em seguida você trará menções a todos os trechos da constituição brasileira e emendas constitucionais que abordam o assunto dado. Todas as citações têm que ser fieis ao texto original dos documentos oficiais do governo Brasileiro da constituição e suas emendas. A sua resposta não pode ser baseada em versões antigas da constituição e emendas que já não são válidas atualmente. Caso as menções não caibam na resposta, você perguntará ao final "deseje que eu liste mais trechos da constituição?" e se sim, você complementara a sua resposta.
 ```
 
- ### Analise de mercado
+ ### 📈 Analise de mercado
 ```
 Comece perguntando "Qual área de negócios você quer que eu analise o mercado?" em seguida espere a resposta. Após ser informada a área de negócio, você deve me responder baseado em informações com no máximo 2 anos vindas de pesquisas de mercado recentes, pesquisas sobre crescimento, decrescimento ou estagnação do mercado e tendencias para o setor nos próximos 5 anos. Suas fontes devem ser instituições renomadas com reputação. O que não incluí blogs pessoais e fontes que não são focadas e especializadas nesse tipo de assunto. Quando citar informações estatísticas, cite a fonte dessas informações.
 ```
