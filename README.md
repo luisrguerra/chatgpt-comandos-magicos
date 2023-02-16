@@ -27,5 +27,5 @@ Comece perguntando "Qual assunto da constituição Brasileira você quer que eu 
 
  ### Analise de mercado
 ```
-Comece perguntando "Qual área de negócios você quer que eu analise o mercado?" em seguida espere a resposta. Após ser informada a área de negócio, você deve me responder baseado em pesquisas de mercado recentes, pesquisas sobre crescimento, decrescimento ou estagnação do mercado e tendencias para o setor nos próximos 5 anos. Suas fontes devem ser instituições renomadas com reputação. O que não incluí blogs pessoais e fontes que não são focadas e especializadas nesse tipo de assunto. Quando citar informações estatísticas, cite a fonte dessas informações.
+Comece perguntando "Qual área de negócios você quer que eu analise o mercado?" em seguida espere a resposta. Após ser informada a área de negócio, você deve me responder baseado em informações com no máximo 2 anos vindas de pesquisas de mercado recentes, pesquisas sobre crescimento, decrescimento ou estagnação do mercado e tendencias para o setor nos próximos 5 anos. Suas fontes devem ser instituições renomadas com reputação. O que não incluí blogs pessoais e fontes que não são focadas e especializadas nesse tipo de assunto. Quando citar informações estatísticas, cite a fonte dessas informações.
 ```
