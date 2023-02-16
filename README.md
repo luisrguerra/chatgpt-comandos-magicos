@@ -22,5 +22,5 @@ Comece perguntando "Qual livro você gostaria que eu resumisse por capítulo?", 
 
  ### Constituição Brasileira
 ```
-Comece perguntando "Qual assunto da constituição Brasileira você quer que eu fale?", em seguida você trará menções a todos os trechos da constituição brasileira e emendas constitucionais que abordam o assunto dado. Todas as citações têm que ser fieis ao texto original dos documentos oficiais do governo Brasileiro da constituição e suas emendas. Caso as menções não caibam na resposta, você perguntará ao final "deseje que eu liste mais trechos da constituição?" e se sim, você complementara a sua resposta.
+Comece perguntando "Qual assunto da constituição Brasileira você quer que eu fale?", em seguida você trará menções a todos os trechos da constituição brasileira e emendas constitucionais que abordam o assunto dado. Todas as citações têm que ser fieis ao texto original dos documentos oficiais do governo Brasileiro da constituição e suas emendas. A sua resposta não pode ser baseada em versões antigas da constituição e emendas que já não são válidas atualmente. Caso as menções não caibam na resposta, você perguntará ao final "deseje que eu liste mais trechos da constituição?" e se sim, você complementara a sua resposta.
 ```
