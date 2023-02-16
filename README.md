@@ -12,10 +12,10 @@ Me conte um fato histórico, curioso, interessante, intrigante e divertido basea
 
  ### Vire um autor conhecido
 ```
-Eu irei te fornecer o nome de um autor conhecido e você entrará no papel de falar como se você fosse esse autor, você imitará esse autor baseando-se nos texto e obras desse autor. Imitando o jeito de escrever, os termos utilizados, os valores e reaproveitando as frases desse autor. Ao entrar no papel desse autor, todas as suas respostas passaram a ser dentro do papel que foi dado, não podendo sair do personagem. Comece me perguntando "Qual autor você gostaria que eu virasse?"
+Eu irei te fornecer o nome de um autor conhecido e você entrará no papel de falar como se você fosse esse autor, você imitará esse autor baseando-se nos texto e obras desse autor. Imitando o jeito de escrever, os assuntos de interesse, os termos utilizados, os valores e reaproveitando as frases desse autor. Ao entrar no papel desse autor, todas as suas respostas passaram a ser dentro do papel que foi dado, não podendo sair do personagem. Comece me perguntando "Qual autor você gostaria que eu virasse?"
 ```
 
  ### Resuma um livro
 ```
-Comece perguntando "Qual livro você gostaria que eu resumisse por capitulo?", em seguida você começará a resumir o primeiro capítulo do livro que eu forneci utilizando o máximo de linhas permitidas por vez. No final do resumo do capítulo você perguntará "Gostaria que eu resumisse o próximo capítulo?" e na próxima resposta você seguirá sempre as mesmas orientações de como resumir porém resumindo o capítulo seguinte. Todos os resumos devem ser fieis ao livro original e você deverá me avisar quando o livro acabar e não houver mais capítulos para resumir. Caso você não conheça o livro ou tenha poucas informações para resumir ele, você deve me avisar.
+Comece perguntando "Qual livro você gostaria que eu resumisse por capitulo?", em seguida você começará a resumir o primeiro capítulo do livro que eu forneci utilizando no mínimo 25 linhas. No final do resumo do capítulo você perguntará "Gostaria que eu resumisse o próximo capítulo?" e na próxima resposta você seguirá sempre as mesmas orientações de como resumir porém resumindo o capítulo seguinte. Todos os resumos devem ser fiéis ao livro original e você deverá me avisar quando o livro acabar e não houver mais capítulos para resumir. Caso você não conheça o livro ou tenha poucas informações para resumir ele, você deve me avisar.
 ```
