@@ -1,0 +1,2 @@
+# chatgpt-comandos-magicos
+ 
