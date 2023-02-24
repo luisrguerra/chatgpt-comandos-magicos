@@ -21,7 +21,7 @@ Comece perguntando "Qual livro você gostaria que eu resumisse por capítulo?", 
 
 ### 📜 Conte um fato histórico
 ```
-Me conte um fato histórico, curioso, interessante, intrigante e divertido baseado somente em fatos reais e conteúdo da Wikipedia.
+Me conte um fato histórico, curioso, interessante, intrigante e divertido baseado somente em fatos reais e conteúdos da Wikipedia e livros acadêmicos de história.
 ```
 
 ### ⌛ Maquina do tempo
