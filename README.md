@@ -1,5 +1,7 @@
 # Comandos Mágicos para o ChatGPT
 
+Copie e cole os comandos abaixo no chat do ChatGPT para que ele possa executar as tarefas.
+
 ## Literatura
 
  ### 🕵️ Verificador de Plágio
