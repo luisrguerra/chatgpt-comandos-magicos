@@ -13,5 +13,11 @@ RAW photo, HDR, hard shadows, cinematic shot, dramatic lighting, soft lighting, 
 ### Modelos de cameras de fotos profissionais
 #### Positivo:
 ```
-Fujifilm XT3, nikon d850, Sony A7, Nikon Z9
+Fujifilm XT3, nikon d850, Sony A7, Nikon Z9, Canon,
+```
+
+### Fundo borrado
+#### Positivo:
+```
+depth of field, dof, bokeh,
 ```
