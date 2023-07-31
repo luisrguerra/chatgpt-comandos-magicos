@@ -1,4 +1,4 @@
-# Comandos Mágicos para o ChatGPT
+# Comandos Mágicos para ChatGPT, Bard e Cluade
 
 Copie e cole os comandos abaixo no chat do ChatGPT para que ele possa executar as tarefas.
 
@@ -205,4 +205,4 @@ Comece perguntando "Qual área de negócios você quer que eu analise o mercado?
 ```
 Eu irei te fornecer um texto e você irá memorizar esse texto, as suas respostas a instruções e perguntas após isso serão baseadas primeiramente nesse texto que você memorizou. Após eu fornecer esse texto você irá perguntar "O que você quer que eu faça?" e aguarde. Comece me pedindo "Me forneça um texto para eu memorizar".
 ```
-
+## [Stable Diffusion Prompts](stable-diffusion.md)
