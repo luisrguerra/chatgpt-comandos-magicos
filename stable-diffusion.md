@@ -29,9 +29,9 @@ depth of field, dof, bokeh,
  ### Realistic anime
  #### Positivo:
 ```
-realistic anime, realistic manga, illustration, artwork, realistic anime illumination, realistic anime shading, realistic anime hair,
+realistic anime, realistic manga, illustration, artwork, realistic anime illumination, realistic anime shading, realistic anime hair, realistic anime eyes, realistic anime deviantart, realistic anime artstation,
 ```
 #### Negativo:
 ```
-black and white, monochrome, 3d render, photography, photo, cartoon,
+black and white, monochrome, 3d render, photography, photo, cartoon, abstract art, poorly drawn,
 ```
