@@ -25,6 +25,12 @@ Fujifilm XT3, Nikon d850, Sony A7, Nikon Z9, Canon,
 depth of field, dof, bokeh,
 ```
 ---
+### Anatomia Realista
+ #### Negative:
+```
+amputee, deformed body, long neck, extra fingers, bad body proportions, mutated hands, mutilated, mutation, ugly,
+```
+---
  ### Realistic anime
  #### Positve:
 ```
@@ -39,11 +45,6 @@ black and white, monochrome, 3d render, photography, photo, cartoon, abstract ar
 ```
 realistic anime hair, realistic anime eyes, realistic anime body anatomy, realistic anime skin, realistic anime hands, realistic anime nose,
 ```
- #### Negative:
-```
-amputee, deformed body, long neck, extra fingers, bad body proportions, mutated hands, mutilated, mutation, ugly,
-```
-
  ### Anime Studios
  #### Positve:
 ```
