@@ -28,7 +28,7 @@ depth of field, dof, bokeh,
 ### Anatomia Realista
  #### Negative:
 ```
-amputee, deformed body, long neck, extra fingers, bad body proportions, mutated hands, mutilated, mutation, ugly,
+amputee, deformed body, long neck, extra fingers, bad body proportions, mutated hands, mutilated, mutation, ugly, fused fingers, malformed limbs, extra heads,
 ```
 ---
  ### Realistic anime
@@ -38,15 +38,25 @@ realistic anime, realistic manga, illustration, artwork, realistic anime illumin
 ```
 #### Negative:
 ```
-black and white, monochrome, 3d render, photography, photo, cartoon, abstract art, poorly drawn, text, dialog bubble, letters, cartoon comics, superhero comics, signature, minimalist art, 3d model,
+black and white, monochrome, 3d render, photography, photo, cartoon, abstract art, poorly drawn, text, dialog bubble, letters, cartoon comics, superhero comics, signature, minimalist art, 3d model, amateur anime artist,
 ```
- ### Realistic anime anatomy
- #### Positve:
+### Realistic anime anatomy
+#### Positve:
 ```
 realistic anime hair, realistic anime eyes, realistic anime body anatomy, realistic anime skin, realistic anime hands, realistic anime nose,
 ```
- ### Anime Studios
+### Anime Studios
  #### Positve:
 ```
 Ghibli anime studio, Madhouse anime studio, Ufotable anime studio, Pierrot anime studio, A-1 Pictures anime studio,Toei anime studio,
+```
+---
+### Realistic comics
+#### Positve:
+```
+realistic comics illustrations, realistic comic illumination, realistic comic shadows,
+```
+#### Negative:
+```
+anime, manga, 3d render, 3d model, abstract art, poorly drawn, text, dialog bubble, letters, signature, minimalist art, amateur comic artist, photography, photo, black and white, monochrome,
 ```
