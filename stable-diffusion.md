@@ -54,9 +54,9 @@ Ghibli anime studio, Madhouse anime studio, Ufotable anime studio, Pierrot anime
 ### Realistic comics
 #### Positve:
 ```
-realistic comics illustrations, realistic comic illumination, realistic comic shadows,
+realistic detailed comics illustration, realistic comic illumination, realistic comic shadows, realistic comic shading, artwork,
 ```
 #### Negative:
 ```
-anime, manga, 3d render, 3d model, abstract art, poorly drawn, text, dialog bubble, letters, signature, minimalist art, amateur comic artist, photography, photo, black and white, monochrome,
+anime, manga, 3d render, 3d model, abstract art, poorly drawn, text, dialog bubble, letters, signature, minimalist art, amateur comic artist, photography, photo, black and white, monochrome, flat cartoon, superhero, marvel, dc comics, Impressionism,cubism,Surrealism,Pop Art, Expressionism, oil painting, sketch, draft,
 ```
