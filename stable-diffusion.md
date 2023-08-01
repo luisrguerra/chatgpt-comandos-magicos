@@ -7,29 +7,28 @@ sharp image, full hd, 1080p,4k, 8k ,uhd, high quality, detailed, high resolution
 ```
 blurry, low res, low resolution, low quality,
 ```
-
+---
 ### Foto profissional
 #### Positve:
 ```
 RAW photo, HDR, hard shadows, cinematic shot, dramatic lighting, soft lighting, dslr, professional photographer,
 ```
-
 ### Modelos de cameras de fotos profissionais
 #### Positve:
 ```
 Fujifilm XT3, Nikon d850, Sony A7, Nikon Z9, Canon,
 ```
-
+---
 ### Fundo borrado
 #### Positve:
 ```
 depth of field, dof, bokeh,
 ```
-
+---
  ### Realistic anime
  #### Positve:
 ```
-realistic anime, realistic manga, illustration, artwork, realistic anime illumination, realistic anime shading, realistic anime Deviantart, realistic anime Artstation, realistic anime wallpaper,realistic anime fanart, realistic anime Pinterest,
+realistic anime, realistic manga, illustration, artwork, realistic anime illumination, realistic anime shading, realistic anime Deviantart, realistic anime Artstation, realistic anime wallpaper,realistic anime fanart, realistic anime Pinterest, realistic and detailed anime background,
 ```
 #### Negative:
 ```
@@ -38,7 +37,7 @@ black and white, monochrome, 3d render, photography, photo, cartoon, abstract ar
  ### Realistic anime anatomy
  #### Positve:
 ```
-realistic anime hair, realistic anime eyes, realistic anime body anatomy, realistic anime skin,
+realistic anime hair, realistic anime eyes, realistic anime body anatomy, realistic anime skin, realistic anime hands, realistic anime nose,
 ```
 
  ### Anime Studios
