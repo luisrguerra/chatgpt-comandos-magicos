@@ -25,3 +25,13 @@ Fujifilm XT3, Nikon d850, Sony A7, Nikon Z9, Canon,
 ```
 depth of field, dof, bokeh,
 ```
+
+ ### Realistic anime
+ #### Positivo:
+```
+realistic anime, realistic manga, illustration, artwork, realistic anime illumination, realistic anime shading, 
+```
+#### Negativo:
+```
+black and white, monochrome, 3d render, photography, photo, cartoon,
+```
