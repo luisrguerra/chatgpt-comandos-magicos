@@ -28,16 +28,20 @@ depth of field, dof, bokeh,
  ### Realistic anime
  #### Positve:
 ```
-realistic anime, realistic manga, illustration, artwork, realistic anime illumination, realistic anime shading, realistic anime Deviantart, realistic anime Artstation, realistic anime wallpaper,realistic anime fanart, realistic anime Pinterest, realistic and detailed anime background,
+realistic anime, realistic manga, illustration, artwork, realistic anime illumination, realistic anime shading, realistic anime Deviantart, realistic anime Artstation, realistic anime wallpaper,realistic anime fanart, realistic anime Pinterest, realistic and detailed anime background, realistic anime shadows,
 ```
 #### Negative:
 ```
-black and white, monochrome, 3d render, photography, photo, cartoon, abstract art, poorly drawn, text, dialog bubble, letters, cartoon comics, superhero comics, signature,
+black and white, monochrome, 3d render, photography, photo, cartoon, abstract art, poorly drawn, text, dialog bubble, letters, cartoon comics, superhero comics, signature, minimalist art, 3d model,
 ```
  ### Realistic anime anatomy
  #### Positve:
 ```
 realistic anime hair, realistic anime eyes, realistic anime body anatomy, realistic anime skin, realistic anime hands, realistic anime nose,
+```
+ #### Negative:
+```
+amputee, deformed body, long neck, extra fingers, bad body proportions, mutated hands, mutilated, mutation, ugly,
 ```
 
  ### Anime Studios
