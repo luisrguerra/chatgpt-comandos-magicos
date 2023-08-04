@@ -38,7 +38,7 @@ realistic anime, realistic manga, illustration, artwork, realistic anime illumin
 ```
 #### Negative:
 ```
-black and white, monochrome, 3d render, photography, photo, cartoon, abstract art, poorly drawn, text, dialog bubble, letters, cartoon comics, superhero comics, signature, minimalist art, 3d model, amateur anime artist,
+black and white,b&w, monochrome, 3d render, photography, photo, cartoon, abstract art, poorly drawn, text, dialog bubble, letters, cartoon comics, superhero comics, signature, minimalist art, 3d model, amateur anime artist,canvas frame,bad art,
 ```
 ### Realistic anime anatomy
 #### Positive:
@@ -58,5 +58,5 @@ realistic detailed comics illustration, realistic comic illumination, realistic 
 ```
 #### Negative:
 ```
-anime, manga, 3d render, 3d model, abstract art, poorly drawn, text, dialog bubble, letters, signature, minimalist art, amateur comic artist, photography, photo, black and white, monochrome, flat cartoon, superhero, marvel, dc comics, Impressionism,cubism,Surrealism,Pop Art, Expressionism, oil painting, sketch, draft,
+anime, manga, 3d render, 3d model, abstract art, poorly drawn, text, dialog bubble, letters, signature, minimalist art, amateur comic artist, photography, photo, black and white,b&w, monochrome, flat cartoon, superhero, marvel, dc comics, Impressionism,cubism,Surrealism,Pop Art, Expressionism, oil painting, sketch, draft,
 ```
