@@ -25,7 +25,7 @@ Fujifilm XT3, Nikon d850, Sony A7, Nikon Z9, Canon,
 depth of field, dof, bokeh,
 ```
 ---
-### Anatomia Realista
+### Realistic Anatomy
  #### Negative:
 ```
 amputee, deformed body, long neck, extra fingers, bad body proportions, mutated hands, mutilated, mutation, ugly, fused fingers, malformed limbs, extra heads, morbid, disfigured,
