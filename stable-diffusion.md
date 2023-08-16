@@ -64,10 +64,10 @@ anime, manga, 3d render, 3d model, abstract art, poorly drawn, text, dialog bubb
 ### Cartoon Style
 #### Positive:
 ```
-cartoon, cartoonized, illustration, art, artwork, draw, flat cartoon, comic, disney animation style,
+cartoon, cartoonized, cartoony, illustration, art, artwork, draw, flat cartoon, comic, walt disney studios animation style, masterpiece, detailed, best quality, beautiful, studio ghibli art style, Hanna-Barbera studio style,
 ```
 
 #### Negative:
 ```
-black and white,b&w, monochrome, anime, manga, 3d render, realistic, photorealistic, 3d model, abstract art, poorly drawn, text, dialog bubble, letters, signature, minimalist art, amateur comic artist, photography, photo, superhero, marvel, dc comics, Impressionism,cubism,Surrealism,Pop Art, Expressionism, oil painting,
+black and white,b&w, monochrome, (anime), (manga), 3d render, realistic, photorealistic, 3d model, abstract art, poorly drawn, text, dialog bubble, letters, signature, minimalist art, amateur comic artist, photography, photo, superhero, marvel, dc comics, Impressionism,cubism,Surrealism,Pop Art, Expressionism, oil painting, children book illustration style,
 ```
