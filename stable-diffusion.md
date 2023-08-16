@@ -60,3 +60,14 @@ realistic detailed comics illustration, realistic comic illumination, realistic 
 ```
 anime, manga, 3d render, 3d model, abstract art, poorly drawn, text, dialog bubble, letters, signature, minimalist art, amateur comic artist, photography, photo, black and white,b&w, monochrome, flat cartoon, superhero, marvel, dc comics, Impressionism,cubism,Surrealism,Pop Art, Expressionism, oil painting, sketch, draft,
 ```
+---
+### Cartoon Style
+#### Positive:
+```
+cartoon, cartoonized, illustration, art, artwork, draw, flat cartoon, comic, disney animation style,
+```
+
+#### Negative:
+```
+black and white,b&w, monochrome, anime, manga, 3d render, realistic, photorealistic, 3d model, abstract art, poorly drawn, text, dialog bubble, letters, signature, minimalist art, amateur comic artist, photography, photo, superhero, marvel, dc comics, Impressionism,cubism,Surrealism,Pop Art, Expressionism, oil painting,
+```
