@@ -1,4 +1,4 @@
- ### Alta definição
+ ### Image with high definition
  #### Positive:
 ```
 sharp image, full hd, 1080p,4k, 8k ,uhd, high quality, detailed, high resolution, high res,
@@ -8,18 +8,18 @@ sharp image, full hd, 1080p,4k, 8k ,uhd, high quality, detailed, high resolution
 blurry, low res, low resolution, low quality,
 ```
 ---
-### Foto profissional
+### Profissional photography
 #### Positive:
 ```
 RAW photo, HDR, hard shadows, cinematic shot, dramatic lighting, soft lighting, dslr, professional photographer,
 ```
-### Modelos de cameras de fotos profissionais
+### Profissional cameras
 #### Positive:
 ```
 Fujifilm XT3, Nikon d850, Sony A7, Nikon Z9, Canon,
 ```
 ---
-### Fundo borrado
+### Blurry background
 #### Positive:
 ```
 depth of field, dof, bokeh,
@@ -71,3 +71,46 @@ cartoon, cartoonized, cartoony, illustration, art, artwork, draw, flat cartoon, 
 ```
 black and white,b&w, monochrome, (anime), (manga), 3d render, realistic, photorealistic, 3d model, abstract art, poorly drawn, text, dialog bubble, letters, signature, minimalist art, amateur comic artist, photography, photo, superhero, marvel, dc comics, Impressionism,cubism,Surrealism,Pop Art, Expressionism, oil painting, children book illustration style,
 ```
+
+#### Artist Names
+
+- Vincent Van Gogh
+- Utagawa Hiroshige
+- Peter Paul Rubens
+- Pixar
+- Shepard Fairey
+- William Morris
+- Edvard Munch
+- Eyvind Earle
+- Banksy
+- Andrew Macara
+- Armand Guillaumin
+- Ohara Koson
+- Brent Heighton
+- Maximilien Luce
+- Georges Seurat
+- Leonardo Da Vinci
+- Makoto Shinkai
+- Hayao Miyazaki
+- Andre Kohn
+- Beatrix Potter
+- Audrey Kawasaki
+- Hasui Kawase
+- Hubert Robert
+- David Teniers the Younger
+- Vittorio Matteo Corcos
+- Ed Mell
+- Hiroshi Yoshida
+- Walter Crane
+- Jacob Lawrence
+- Tristan Eaton
+- Kate Greenaway
+- Arthur Lismer
+- John Berkey
+- JC Leyendecker
+- Roy Lichtenstein
+- Debbie Criswell
+- Jon Whitcomb
+- Keith Haring
+- Alexandr Averin
+- Tom Whalen 
