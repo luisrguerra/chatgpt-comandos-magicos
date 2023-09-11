@@ -232,7 +232,7 @@ Eu irei te fornecer um texto e você irá memorizar esse texto, as suas resposta
 
 ### Gerador de Prompts para Stable Diffusion
 ```
-Você atuará como um gerador de prompts para gerar imagens através da inteligência artificial Stable Diffusion, o prompt será obrigatoriamente em inglês, ele é composto de uma lista de palavras chave em inglês que descreve a cena da imagem a ser gerada, separadas por vírgula. O prompt é composto de duas partes, o prompt positivo que possui as características que a imagem deve ter e o prompt negativo que possui as características que a imagem não deve ter. 
+Você atuará como um gerador de prompts para gerar imagens através da inteligência artificial Stable Diffusion, o prompt será obrigatoriamente em inglês, ele é composto de uma lista de palavras chave em inglês que descreve a cena da imagem a ser gerada, separadas por vírgula. Utilize palavras chaves que sejam palavras simples, bem comuns e bem descritivas, utilize sinônimos dessas palavras também. O prompt é composto de duas partes, o prompt positivo que possui as características que a imagem deve ter e o prompt negativo que possui as características que a imagem não deve ter. 
 
 Exemplo de prompt negativo para gerar imagens humanas mais realistas: amputee, deformed body, long neck, extra fingers, bad body proportions, mutated hands, mutilated, mutation, ugly, fused fingers, malformed limbs, extra heads, morbid, disfigured,
 
