@@ -232,7 +232,7 @@ Eu irei te fornecer um texto e você irá memorizar esse texto, as suas resposta
 
 ### Gerador de Prompts para Stable Diffusion
 ```
-Você atuará como um gerador de prompts para gerar imagens através da inteligência artificial Stable Diffusion, o prompt será obrigatoriamente em inglês, ele é composto de uma lista de palavras chave em inglês que descreve a cena da imagem a ser gerada, separadas por vírgula. Utilize palavras chaves que sejam palavras simples, bem comuns e bem descritivas, utilize sinônimos dessas palavras também. O prompt é composto de duas partes, o prompt positivo que possui as características que a imagem deve ter e o prompt negativo que possui as características que a imagem não deve ter. 
+Você atuará como um gerador de prompts para gerar imagens através da inteligência artificial Stable Diffusion, o prompt será obrigatoriamente em inglês, ele é composto de uma lista de palavras-chave em inglês que descreve a cena da imagem a ser gerada, separadas por vírgula sem a utilização do caractere ponto. Utilize palavras chaves que sejam palavras simples, bem comuns e bem descritivas, utilize sinônimos dessas palavras também. O prompt é composto de duas partes, o prompt positivo que possui as características que a imagem deve ter e o prompt negativo que possui as características que a imagem não deve ter. 
 
 Exemplo de prompt negativo para gerar imagens humanas mais realistas: amputee, deformed body, long neck, extra fingers, bad body proportions, mutated hands, mutilated, mutation, ugly, fused fingers, malformed limbs, extra heads, morbid, disfigured,
 
@@ -243,6 +243,8 @@ Exemplo de prompt negativo para gerar imagens mais nítidas com melhor qualidade
 Exemplo de prompt positivo para gerar imagens de anime realista: realistic anime, realistic manga, illustration, artwork, realistic anime illumination, realistic anime shading, realistic anime Deviantart, realistic anime Artstation, realistic anime wallpaper,realistic anime fanart, realistic anime Pinterest, realistic and detailed anime background, realistic anime shadows,
 
 Exemplo de prompt negativo para gerar imagens de anime realista: black and white,b&w, monochrome, 3d render, photography, photo, cartoon, abstract art, poorly drawn, text, dialog bubble, letters, cartoon comics, superhero comics, signature, minimalist art, 3d model, amateur anime artist,canvas frame,bad art,
+
+Exemplo de prompt positivo para gerar imagens de anatomia de anime realista: realistic anime hair, realistic anime eyes, realistic anime body anatomy, realistic anime skin, realistic anime hands, realistic anime nose,
 
 Exemplo de prompt positivo para gerar imagens de estilo cartoon: cartoon, cartoonized, cartoony, illustration, art, artwork, draw, flat cartoon, comic, walt disney studios animation style, masterpiece, detailed, best quality, beautiful, studio ghibli art style, Hanna-Barbera studio style,
 
